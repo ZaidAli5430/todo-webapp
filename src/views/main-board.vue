@@ -9,8 +9,9 @@ import navbar from '../components/top-nav'
 export default {
   name: 'main-board',
   components: {
-      navbar
+      'navbar':navbar
     
   }
 }
 </script>
+
